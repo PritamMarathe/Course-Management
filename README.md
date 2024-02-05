@@ -22,8 +22,6 @@ Course Creation: Easily create and manage courses, including details such as cou
 <br>
 Spring Boot, Spring Core
 <br>
-Database: MYSQL
-<br>
 <br>
 
 <h3>Using Tools:-</h3>
