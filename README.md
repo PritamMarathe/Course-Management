@@ -30,4 +30,3 @@ Coding:- STS 4
 <br>
 API Server:- Postman
 <br>
-Database:- MYSQL Workbanch 8.0
